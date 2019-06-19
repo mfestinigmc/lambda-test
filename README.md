@@ -11,6 +11,8 @@ exports.findClosestEnemy = (event, context, callback) => {
 
 # parameters
 
-event: input JSON object (e.g. {"field1":"value1"})
-callback: the callback function that you need to call to end execution of the lambda
-context: a collection of variables and methods that describe the execution environment (e.g. the function name), this is not useful for this test's purpose.
+## event: input JSON object (e.g. {"field1":"value1"})
+
+## callback: the callback function that you need to call to end execution of the lambda
+
+## context: a collection of variables and methods that describe the execution environment (e.g. the function name), this is not useful for this test's purpose.
